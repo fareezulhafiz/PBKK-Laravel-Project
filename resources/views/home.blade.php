@@ -4,4 +4,4 @@
 
   <h3 class="text-xl"> This is Homepage</h3>
 
-</x-layout>
+</x-layout> 
