@@ -9,7 +9,7 @@
 
 
     <div>
-        By
+        Written By
       <a href="/authors/{{$post->author->username}}"
          class =" hover:underline text-base text-gray-500">{{$post->author->name}}</a>
       in
